@@ -1,4 +1,4 @@
-# ACCLAIM-paper
+# ACCLAIM paper
 
 Code for frequency analysis, factor analysis and estimation
 
